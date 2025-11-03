@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Me – Camila Pulgares</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Camila Pulgares</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="research.html">Research</a>
+      <a href="outreach.html">Outreach</a>
+      <a href="cv.html">CV</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I'm a PhD student in Astronomy at the Mullard Space Science Laboratory (UCL), where I study the physical and chemical processes in protoplanetary disks using infrared spectroscopy and radiative transfer models.</p>
+  </section>
+</body>
+</html>
